@@ -1,1 +1,18 @@
-Shared Concepts in MEI
+Shared Concepts in MEI (Chapter 2): observed issues
+
+Module reference in opening paragraph should link to something. Might be worth reversing the two sentences. 
+  I don't know where I would link to, so a novice definitely wouldn't.
+
+If someone is reading sequentially, there is apparently no mention of modules prior to Chapter 2. 
+
+We should name the modules in the introductory materials and create a context for what follows. That could happen in chapter 1 or at the beginning of chapter 2.  Right now, the beginning is a longer exposition, but the reader wouldn't know where it's leading. 
+
+We should link to the relevant tutorial, and the example of a minimal header could be moved closer to its initial description, possibly after the mention of "Structure of the MEI header."
+
+Cross-references between tutorials and guidelines
+
+Perhaps offset the additional info in at the end of a section with a "see also" subheading.
+
+Less use of passive voice may help clarify content and flow of text.
+
+Examples of single, composite, grouped, etc. documents could make the text seem less abstract.
