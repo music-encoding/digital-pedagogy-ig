@@ -28,3 +28,11 @@ Phrases like "score meta-information" warrant clarification or simplified langua
 2.2.5.5 Ornaments
 - how to break this out so it is easier to understand?
 - create a tutorial that demonstrates how to use with Unicode or how to create user-defined symbols.
+
+2.3.3 Classification and 2.3.4 Responsibility Attributes - need some context or description.
+
+2.3.5 Linking Attributes should link to Chapter 10 where there is a more detailed description (ch. 10 then mentions ch. 13 for linked data)
+
+2.4.2.1 Defining Reusable Symbols
+- need clarity about how to identify the line numbers in x, y, x2, y2 in a real-world use case
+- why can't we use startid/endid instead or notation-based way in relation to where it is in your score.
