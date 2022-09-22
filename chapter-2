@@ -33,9 +33,11 @@ Phrases like "score meta-information" warrant clarification or simplified langua
 
 2.3.5 Linking Attributes should link to Chapter 10 where there is a more detailed description (ch. 10 then mentions ch. 13 for linked data)
 
-2.4.2.1 Defining Reusable Symbols
-- need clarity about how to identify the line numbers in x, y, x2, y2 in a real-world use case (is this for transcription of facsimile or preservatio purposes?)
+2.4.1-2.4.2 Defining Reusable Symbols
+- need clarity about how to identify the line numbers in x, y, x2, y2 in a real-world use case (is this for transcription of facsimile or preservation purposes?)
 - why can't we use startid/endid instead or notation-based way in relation to where it is in your score; non-linear examples would be helpful.
 - maybe a link to SVG crash course?
 - where do you get the pictogram/graphics? Do you have to create and add to the font for it to render in something like Verovio?
 
+2.4.4 Line Rendition
+- show an example of where the @form (and other) attribute appear in the structure of the MEI file
